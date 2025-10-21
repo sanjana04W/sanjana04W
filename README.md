@@ -52,6 +52,13 @@
 ---
 
 
+#### **Overall Stats**
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana04W&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div align="left">
