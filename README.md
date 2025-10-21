@@ -1,4 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Wenuri+Sanjana;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Wenuri Sanjana</h1>
 <h4 align="center">Creating something useful for all 🌐👨🏻‍💻</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjana04W&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana04W" /> </p>
