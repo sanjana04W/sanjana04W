@@ -1,23 +1,24 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
-
 <h1 align="center">Hi 👋, I'm Wenuri Sanjana</h1>
 <h4 align="center">Creating something useful for all 🌐👨🏻‍💻</h4>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjana04W&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana04W" /> </p>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanjana04W&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana04W" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/sanjana04W?label=Followers&style=social" alt="GitHub followers" /> </p>
+  
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🧑‍🎓 I’m Software Engineering Undergraduate Student at *Open University of Sri Lanka.*
+- 🧑‍🎓 I’m Software Engineering Undergraduate Student at Open University of Sri Lanka.
   
-- 🌱 I’m currently learning *Python, Java and React-Native.*
+- 🌱 I’m currently learning Python, Java and React-Native.
 
-- 💬 Ask me about *Python*
+- 💬 Ask me about Python
 
-- 📫 How to reach me *wenuris2004@gmail.com*
+- 📫 How to reach me wenuris2004@gmail.com
   
-- ⚡ Fun fact *I'm passionate about  UX/UI design and continuously learning new technologies. I also enjoy web development.*
+- ⚡ Fun fact I'm passionate about  UX/UI design and continuously learning new technologies. I also enjoy web development.
 
 </td>
 <td width="50%" align="center">
