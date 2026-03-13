@@ -66,6 +66,15 @@
 
 ---
 
+#### **🧩Recent Activity ** 
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjana04W&theme=tokyo-night" />
+</p>
+
+---
+
 <h3 align="left">🛠️ Tech Stack</h3>
 
 
