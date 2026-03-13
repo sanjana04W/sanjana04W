@@ -66,7 +66,7 @@
 
 ---
 
-#### **🧩Recent Activity ** 
+#### **🧩Recent Activity** 
 
 <!-- GitHub Activity Graph -->
 <p align="center">
