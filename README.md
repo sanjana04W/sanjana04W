@@ -147,7 +147,7 @@ I’m always excited to dive into meaningful conversations and collaborate on in
   
 **📧 Email:** [wenuris2004@gmail.com](mailto:wenuris2004@gmail.com)
 
-**🔗 Portfolio:** [Visit My Portfolio](https://sanjana04w.github.io/Portfolio/)
+**🔗 Portfolio:** [Visit My Portfolio](https://sanjana04w.github.io/My-Portfolio-/)
 
 </div>
 
