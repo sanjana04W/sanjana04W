@@ -73,8 +73,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjana04W&theme=tokyo-night" />
 </p>
 
----
 
+---
 <h3 align="left">🛠️ Tech Stack</h3>
 
 
@@ -112,6 +112,9 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
 
+-----
+
+<h3 align="left">🐍 Contribution Snake</h3> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjana04W/sanjana04W/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjana04W/sanjana04W/output/github-contribution-grid-snake.svg" /> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sanjana04W/sanjana04W/output/github-contribution-grid-snake.svg" /> </picture> </p>
 
 ---
 <br>
@@ -153,6 +156,7 @@ I’m always excited to dive into meaningful conversations and collaborate on in
 
 
 -----
+
 
 <p align="centert"><img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
